@@ -3,4 +3,4 @@ it's a simple Interest calculator Program. Which is made using a JAVA GUI Swing 
 
 ---
 
-<a href="https://ibb.co/dKCv4rJ"><img src="https://i.ibb.co/DKcFftg/Demo.gif" alt="Demo" border="0"></a>
+![](https://linkpicture.com/q/demo.gif)
